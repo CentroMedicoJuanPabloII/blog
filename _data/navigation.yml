@@ -1,12 +1,12 @@
-- title: Start
+- title: Inicio
   url: "/"
-  side: left
+  side: izquierda
 
-- title: Getting Started
+- title: Arrancando
   url: "/getting-started/"
-  side: left
+  side: izquierda
 
-- title: "Templates"
+- title: "Machotes"
   url: "/design/"
   side: left
   dropdown:
