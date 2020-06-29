@@ -19,7 +19,7 @@ And what license is *Feeling Responsive* released under? [This one][2].
 
 
 
-## Why use this theme?
+## Por que usar esto?
 
 Feeling Responsive is heavily customizable.
 
