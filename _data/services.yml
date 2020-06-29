@@ -1,8 +1,8 @@
 - menu_name: "Services"
 
-- name: "Contact"
-  url: "/contact/"
-  title: "Contact"
+- name: "Centro Médico Juan Pablo II"
+  url: "/centromedicojuanpabloii.com/"
+  title: "Al Servicio de los Tilaranenses"
 
 - name: "RSS"
   url: "/feed.xml"
